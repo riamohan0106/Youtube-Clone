@@ -1,0 +1,13 @@
+key:value
+//like highlight
+"sonali": {"likes":true,dislike:"false"}
+
+//get the dat 
+
+doing some operation
+like->false dislkie ->true
+
+put(like,dislike)
+
+//generak for video
+"video": {"noOflIkes":12,"noOfDislikes":13}
